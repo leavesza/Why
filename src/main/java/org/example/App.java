@@ -6,6 +6,7 @@ import java.util.stream.IntStream;
 
 /**
  * Hello world!
+ * This is some outstanding code i should learn - Yaseen
  */
 public class App {
     public static void main(String[] args) {
